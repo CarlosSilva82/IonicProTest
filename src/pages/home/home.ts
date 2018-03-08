@@ -16,5 +16,7 @@ export class HomePage {
     this.navCtrl.push("SecondPage");
     console.log("teste git");
     console.log("teste git");
+    console.log("teste git");
+
   }
 }
